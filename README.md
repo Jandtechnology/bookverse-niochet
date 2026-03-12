@@ -48,7 +48,7 @@ BookVerse/
 1. **Clonar el repositorio:**
 
 ```bash
-git clone https://github.com/Jniochet/bookverse-jniochet.git
+git clone https://book-verse-sooty.vercel.app/
 cd bookverse-jniochet
 
 Instalar dependencias:
